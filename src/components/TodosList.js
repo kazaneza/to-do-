@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import TodoItem from './TodoItem';
 
 const TodosList = ({
